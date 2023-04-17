@@ -12,18 +12,20 @@ const Fotter = () => {
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, perspiciatis iusto! Velit, totam? Nisi eveniet quibusdam autem quam eligendi. Incidunt odio provident reprehenderit est laboriosam, repellendus consequatur vitae illum veniam.
                             Rerum rem ducimus vitae minima ad laudantium reiciendis possimus quae, voluptate voluptatibus ut sapiente iste sit expedita animi est nulla et quasi? Impedit delectus obcaecati debitis esse soluta atque iure!</p>
                     </div>
+
                     <div className="recent">
                         <h1>Recent Post</h1>
                         <div className='one'>
                             <h3>Fly to London</h3>
                             <p>September 2020</p>
                         </div>
+
                         <div className='one'>
                             <h3>Star Comminication</h3>
                             <p>Octuber 2023</p>
                         </div>
-                        <div className='one'>
 
+                        <div className='one'>
                             <h3>Do you like You</h3>
                             <p>March 2005</p>
                         </div>

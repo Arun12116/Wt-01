@@ -6,19 +6,20 @@
 }
 .last-Footer{
     width: 100%;
-    height: 45vh;
+    height: 50vh;
     background-color: black;
 
 }
 .about-Footer p{
-    width: 25rem;
+    width: 20rem;
     margin-top: 1.25rem;
     text-align: center;
     color: rgb(173, 177, 177);
 }
 .LastFooter-Body{
   display: flex;
-  gap: 25rem;
+  justify-content: center;
+  justify-content: space-around;
 
 }
 .firstGalleries{
@@ -27,17 +28,17 @@ margin-top: 1rem;
   
 }
 .firstGalleries img{
-    width: 15%;
-    height:20%;
+    width: 80px;
+    height:80px;
     margin: 2px;
 }
 .second-gallery{
 display: flex;
 }
 .second-gallery img{
-    width: 15%;
-    height:20%;
-    margin: 2px;
+    width: 80px;
+    height:80px;
+    
 }
 .one {
   margin-top: 0.55rem;
@@ -55,17 +56,18 @@ display: flex;
     width: 20vw;
 }
 .about-Footer{
-    margin-top: 20px;
+margin-top: 1rem;
     color: white;
-    margin-left: 4rem;
+    /* margin-left: 4rem; */
 }
 .recent{
-    margin-top: 20px;
+    margin-top: 1rem;
     color: white;
 
 }
 .galleries{
-    margin-top: 20px;
+margin-top: 1rem;
+    
     color: white;
 
 }
