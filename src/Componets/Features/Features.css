@@ -30,6 +30,7 @@
 .item-1{
     margin-top: 3rem;
     list-style: none;
+    text-align: center;
     
 }
 .more{
@@ -40,10 +41,15 @@
     margin-top: 1rem;
     letter-spacing: 1px;
     opacity: 0.5;
+    width: 20vw;
+    text-align: center;
+    margin-left: 5rem;
 }
 .para2{
     margin-top: 1rem;
     color: blue;
+    
+
 }
 
 
